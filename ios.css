@@ -91,7 +91,7 @@ a:hover {color: black;}
 
 .links__container {
   list-style-type: none;
-  background: var(--sectionbg);
+  background: #ffffff;
   border-radius: 20px;
   display: flex;
   flex-direction: column;
