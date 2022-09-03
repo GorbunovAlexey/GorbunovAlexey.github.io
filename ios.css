@@ -46,7 +46,7 @@ body {
   row-gap: 10px;
   border-radius: 20px;
   padding: 20px;
-  background-color: var(--sectionbg);
+  background-color:#ffffff;
 }
 
 .header__avatar {
